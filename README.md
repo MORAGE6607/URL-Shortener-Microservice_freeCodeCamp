@@ -8,3 +8,6 @@ This project involves building a full-stack JavaScript URL Shortener Microservic
   - Completed URL shortening functionality at `index.js`
   - Completed redirection from `/api/shorturl/<short_url>` to the original URL
   - Handled invalid URLs with appropriate error messages
+
+--
+📄 License This project is completed for educational purposes under the FreeCodeCamp curriculum.
